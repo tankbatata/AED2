@@ -17,8 +17,7 @@ int main()
 
     char dados[21],nome[40],populacao[10];
     char maior_cidade[40], maior_populacao[10];
-    char maior_cidade[40], maior_populacao[10];
-    char maior_cidade[40], maior_populacao[10];
+
 
     int i;///Contador dos for, dados e nome
     int k = 0; ///Contador do loop
